@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|c:\\users\\zmathantala\\source\\repos\\swaglabproject\\swaglabproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|solutionrelative:swaglabproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|c:\\users\\zmathantala\\source\\repos\\swaglabproject\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|solutionrelative:tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|c:\\users\\zmathantala\\source\\repos\\swaglabproject\\tests\\addtocarttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|solutionrelative:tests\\addtocarttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|c:\\users\\zmathantala\\source\\repos\\swaglabproject\\pages\\addtocartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|solutionrelative:pages\\addtocartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|c:\\users\\zmathantala\\source\\repos\\swaglabproject\\base\\demobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|solutionrelative:base\\demobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|c:\\users\\zmathantala\\source\\repos\\swaglabproject\\data configuration\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|solutionrelative:data configuration\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|c:\\users\\zmathantala\\source\\repos\\swaglabproject\\data configuration\\connectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|solutionrelative:data configuration\\connectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|c:\\users\\zmathantala\\source\\repos\\swaglabproject\\data configuration\\logindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|solutionrelative:data configuration\\logindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|c:\\users\\zmathantala\\source\\repos\\swaglabproject\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|solutionrelative:pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|c:\\users\\zmathantala\\source\\repos\\swaglabproject\\selectors\\addselectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|solutionrelative:selectors\\addselectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|c:\\users\\zmathantala\\source\\repos\\swaglabproject\\selectors\\loginselectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|solutionrelative:selectors\\loginselectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|c:\\users\\zmathantala\\source\\repos\\swaglabproject\\utilities\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|solutionrelative:utilities\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\bin\\Debug\\net8.0\\Config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net8.0\\Config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|c:\\users\\zmathantala\\source\\repos\\swaglabproject\\swaglabproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{54F15D5B-BE95-4403-B558-813332F08978}|SwagLabProject.csproj|solutionrelative:swaglabproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 167,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddToCartPage.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Pages\\AddToCartPage.cs",
+              "RelativeDocumentMoniker": "Pages\\AddToCartPage.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Pages\\AddToCartPage.cs",
+              "RelativeToolTip": "Pages\\AddToCartPage.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:12:19.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectData.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Data Configuration\\ConnectData.cs",
+              "RelativeDocumentMoniker": "Data Configuration\\ConnectData.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Data Configuration\\ConnectData.cs",
+              "RelativeToolTip": "Data Configuration\\ConnectData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:54:24.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Config.json",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Data Configuration\\Config.json",
+              "RelativeDocumentMoniker": "Data Configuration\\Config.json",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Data Configuration\\Config.json",
+              "RelativeToolTip": "Data Configuration\\Config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T21:59:06.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DemoBase.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Base\\DemoBase.cs",
+              "RelativeDocumentMoniker": "Base\\DemoBase.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Base\\DemoBase.cs",
+              "RelativeToolTip": "Base\\DemoBase.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:06:08.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddToCartTest.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Tests\\AddToCartTest.cs",
+              "RelativeDocumentMoniker": "Tests\\AddToCartTest.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Tests\\AddToCartTest.cs",
+              "RelativeToolTip": "Tests\\AddToCartTest.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:17:24.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Tests\\LoginTest.cs",
+              "RelativeDocumentMoniker": "Tests\\LoginTest.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Tests\\LoginTest.cs",
+              "RelativeToolTip": "Tests\\LoginTest.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:13:36.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwagLabProject",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\SwagLabProject.csproj",
+              "RelativeDocumentMoniker": "SwagLabProject.csproj",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\SwagLabProject.csproj",
+              "RelativeToolTip": "SwagLabProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T21:03:21.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDetails.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Data Configuration\\LoginDetails.cs",
+              "RelativeDocumentMoniker": "Data Configuration\\LoginDetails.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Data Configuration\\LoginDetails.cs",
+              "RelativeToolTip": "Data Configuration\\LoginDetails.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:02:21.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "Pages\\LoginPage.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBUAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:11:57.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddSelectors.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Selectors\\AddSelectors.cs",
+              "RelativeDocumentMoniker": "Selectors\\AddSelectors.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Selectors\\AddSelectors.cs",
+              "RelativeToolTip": "Selectors\\AddSelectors.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:13:21.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginSelectors.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Selectors\\LoginSelectors.cs",
+              "RelativeDocumentMoniker": "Selectors\\LoginSelectors.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Selectors\\LoginSelectors.cs",
+              "RelativeToolTip": "Selectors\\LoginSelectors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:13:01.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Utilities\\Utils.cs",
+              "RelativeDocumentMoniker": "Utilities\\Utils.cs",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\Utilities\\Utils.cs",
+              "RelativeToolTip": "Utilities\\Utils.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAuwN8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:19:41.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Config.json",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\bin\\Debug\\net8.0\\Config.json",
+              "RelativeDocumentMoniker": "bin\\Debug\\net8.0\\Config.json",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\bin\\Debug\\net8.0\\Config.json",
+              "RelativeToolTip": "bin\\Debug\\net8.0\\Config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T22:25:29.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SwagLabProject",
+              "DocumentMoniker": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\SwagLabProject.csproj",
+              "RelativeDocumentMoniker": "SwagLabProject.csproj",
+              "ToolTip": "C:\\Users\\zmathantala\\source\\repos\\SwagLabProject\\SwagLabProject.csproj",
+              "RelativeToolTip": "SwagLabProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T21:54:38.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
